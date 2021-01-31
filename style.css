@@ -1,0 +1,30 @@
+h1 {
+	color: green;
+	font-size: 50px;
+}
+
+h2 {
+	display: block;
+	margin: 10px 20px;
+	color: brown;
+	font-size: 40px;
+}
+
+ad {
+	display: block;
+	margin-left: 10px 20px;
+	color: blue;
+	font-size: 20px;
+}
+
+usn,
+name,
+col,
+year,
+branch,
+email {
+	display: inline-block;
+	color: red;
+	margin: 10px;
+	font-size: 20px;
+}
